@@ -2,13 +2,15 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
-
+from bs4 import BeautifulSoup
+from GetFeedback import before_first, after_first, scoop
     
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 driver.get("https://squirdle.fireblend.com/")
 
 
+guessCount = 0 
 
 def PokeGuess(pokeGuess):
     search = driver.find_element(By.ID, "guess")
@@ -16,7 +18,51 @@ def PokeGuess(pokeGuess):
     search.send_keys(Keys.RETURN)
     enter  = driver.find_element(By.ID, "guess_submit")
     enter.click()
-    time.sleep(15)
-    driver.quit()
+    UpdateHTML()
+    global feedback
+    feedback = Feedback(BigChop())
     return
 
+def UpdateHTML():
+    global htmlstring 
+    htmlstring = str(BeautifulSoup(driver.page_source).prettify())
+    return htmlstring
+
+
+def BigChop():
+    '''Splices string with feedback from guessCount'''
+    htmlfinal = scoop(htmlstring, 'id="guess'+str(guessCount), 'class="tooltip">')
+    return htmlfinal
+
+class Feedback:
+    def __init__(self,s):
+        self.gen = genFeedback(s)
+        self.type1 = Type1Feedback(s)
+        self.type2 = Type2Feedback(s)
+        self.height = HeightFeedback(s)
+        self.weight = WeightFeedback(s)
+    
+def genFeedback(s):
+    return scoop(s, "imgs/",".png")
+
+def Type1Feedback(s):
+    splice = after_first(s, ".png")
+    return scoop(splice, "imgs/", ".png")
+
+def Type2Feedback(s):
+    spliceOne = after_first(s, ".png")
+    spliceTwo = after_first(spliceOne, ".png")
+    return scoop(spliceTwo, "imgs/",".png")
+
+def HeightFeedback(s):
+    spliceOne = after_first(s, ".png")
+    spliceTwo = after_first(spliceOne, ".png")
+    spliceThree = after_first(spliceTwo, ".png")
+    return scoop(spliceTwo, "imgs/", ".png")
+
+def WeightFeedback(s):
+    return
+    
+    
+PokeGuess("Squirtle")
+print(feedback.gen)
