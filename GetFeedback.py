@@ -1,27 +1,13 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-import time
-from bs4 import BeautifulSoup
-from SquirdleSolver import PokeGuess
+def after_first(text, marker):
 
+    indFirst = text.index(marker)
+    return text[indFirst+len(marker):]
 
+def before_first(text, marker):
+    return text[:text.index(marker)]
 
-#html = driver.page_source
-#soup = BeautifulSoup(html)
-#print(soup.prettify())
-
-PATH = "C:\Program Files (x86)\chromedriver.exe"
-driver = webdriver.Chrome(PATH)
-driver.get("https://squirdle.fireblend.com/")
-
-PokeGuess("Squirtle")
-
+def scoop(text, starter, ender):
     
-
-#this is how to get current HTML
-soup = BeautifulSoup(driver.page_source)
-htmlstring= str(soup.prettify())
-
-
-
+    cutOne = after_first(text, starter)
+    cutTwo = before_first(cutOne, ender)
+    return cutTwo
