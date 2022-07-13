@@ -4,11 +4,11 @@ library(dplyr)
 
 #clean pokemon database, select for relevant columns: name, generation, types, height, weight
 pokemon <- read_csv('pokemon.csv')
-pokemon <- pokemon %>%
+pokemonCleaned <- pokemon %>%
   select(name, generation,type_1, type_2, height_m, weight_kg) 
 
 #write CSV for use in SquirdleSolver
-write.csv(pokemon, 'C:\Users\awill\OneDrive\Desktop\SQUIRDLE Solver')
+write.csv(pokemonCleaned, 'pokemonCleaned.csv')
 
 #find "average pokemon"
 #best guess for initial guess
