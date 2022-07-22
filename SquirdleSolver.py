@@ -115,6 +115,12 @@ def ChooseNew():
         pokeData = pokeData.query('type_1 == "'+curr.type1+'"')
     if feedback.type1 =='wrongpos':
         pokeData = pokeData.query('type_2 == "'+curr.type1+'"')
+        
+    #filter by type2
+    if feedback.type2 =='wrong':
+        pokeData = pokeData.query('type_2 != "'+curr.type2+'"')
+    if feedback.type2=='correct':
+        pokeData= pokeData.query('type_2 == "'+curr.type2+'"')
     
     #filter by height
     if feedback.height == 'up':
