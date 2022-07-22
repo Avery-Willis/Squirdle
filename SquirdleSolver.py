@@ -92,7 +92,16 @@ pokeData = pandas.read_csv('pokemonCleaned.csv')
 def ChooseNew():
     """returns pokemon name for next guess"""
     #filter by generation
+    global feedback
+    feedback = Feedback(guessHTML())
     global pokeData
+    print("looking at global pokeData at start of ChooseNew")
+    print("gen feedback: "+feedback.gen)
+    print("1 feedback: "+feedback.type1)
+    print("2 feedback: "+feedback.type2)
+    print("height feedback: "+feedback.height)
+    print("weight feedback: "+feedback.weight)
+    print(pokeData)
     if feedback.gen=='up':
         pokeData = pokeData.query('gen > ' + str(curr.gen))
     elif feedback.gen=='down':
@@ -110,7 +119,7 @@ def ChooseNew():
     
     #filter by type2
     if feedback.type2==None:
-        pokeData = pokeData.query('type_2 == "'+pandas.NA+'"')
+        pokeData = pokeData.query('type_2 == '+pandas.NA)
     elif feedback.type2 =='wrong':
         pokeData = pokeData.query('type_2 != "'+curr.type2+'"')
     elif feedback.type2 =='correct':
@@ -130,6 +139,10 @@ def ChooseNew():
     if feedback.weight == 'down':
         pokeData = pokeData.query('weight_kg < '+str(curr.weight))
     
+    print("Looking at pokeData after:")
+    print(pokeData)
+    global guessCount
+    guessCount+=1
     return pokeData.values[0][1]
     
     
@@ -137,4 +150,3 @@ def ChooseNew():
 PokeGuess("Buizel")
 while guessCount <9:
     PokeGuess(next)
-    guessCount+=1
