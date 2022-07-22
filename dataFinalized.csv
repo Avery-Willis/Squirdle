@@ -1,0 +1,1051 @@
+"num","name","gen","type_1","type_2","height_m","weight_kg"
+"1","Bulbasaur",1,"Grass","Poison",0.7,6.9
+"2","Ivysaur",1,"Grass","Poison",1,13
+"3","Venusaur",1,"Grass","Poison",2,100
+"4","Mega Venusaur",6,"Grass","Poison",2.4,155.5
+"5","Charmander",1,"Fire","None",0.6,8.5
+"6","Charmeleon",1,"Fire","None",1.1,19
+"7","Charizard",1,"Fire","Flying",1.7,90.5
+"8","Mega Charizard X",6,"Fire","Dragon",1.7,110.5
+"9","Mega Charizard Y",6,"Fire","Flying",1.7,100.5
+"10","Squirtle",1,"Water","None",0.5,9
+"11","Wartortle",1,"Water","None",1,22.5
+"12","Blastoise",1,"Water","None",1.6,85.5
+"13","Mega Blastoise",6,"Water","None",1.6,101.1
+"14","Caterpie",1,"Bug","None",0.3,2.9
+"15","Metapod",1,"Bug","None",0.7,9.9
+"16","Butterfree",1,"Bug","Flying",1.1,32
+"17","Weedle",1,"Bug","Poison",0.3,3.2
+"18","Kakuna",1,"Bug","Poison",0.6,10
+"19","Beedrill",1,"Bug","Poison",1,29.5
+"20","Mega Beedrill",6,"Bug","Poison",1.4,40.5
+"21","Pidgey",1,"Normal","Flying",0.3,1.8
+"22","Pidgeotto",1,"Normal","Flying",1.1,30
+"23","Pidgeot",1,"Normal","Flying",1.5,39.5
+"24","Mega Pidgeot",6,"Normal","Flying",2.2,50.5
+"25","Rattata",1,"Normal","None",0.3,3.5
+"26","Alolan Rattata",7,"Dark","Normal",0.3,3.8
+"27","Raticate",1,"Normal","None",0.7,18.5
+"28","Alolan Raticate",7,"Dark","Normal",0.7,25.5
+"29","Spearow",1,"Normal","Flying",0.3,2
+"30","Fearow",1,"Normal","Flying",1.2,38
+"31","Ekans",1,"Poison","None",2,6.9
+"32","Arbok",1,"Poison","None",3.5,65
+"33","Pikachu",1,"Electric","None",0.4,6
+"34","Raichu",1,"Electric","None",0.8,30
+"35","Alolan Raichu",7,"Electric","Psychic",0.7,21
+"36","Sandshrew",1,"Ground","None",0.6,12
+"37","Alolan Sandshrew",7,"Ice","Steel",0.7,40
+"38","Sandslash",1,"Ground","None",1,29.5
+"39","Alolan Sandslash",7,"Ice","Steel",1.2,55
+"40","Nidoran<U+2640>",1,"Poison","None",0.4,7
+"41","Nidorina",1,"Poison","None",0.8,20
+"42","Nidoqueen",1,"Poison","Ground",1.3,60
+"43","Nidoran<U+2642>",1,"Poison","None",0.5,9
+"44","Nidorino",1,"Poison","None",0.9,19.5
+"45","Nidoking",1,"Poison","Ground",1.4,62
+"46","Clefairy",1,"Fairy","None",0.6,7.5
+"47","Clefable",1,"Fairy","None",1.3,40
+"48","Vulpix",1,"Fire","None",0.6,9.9
+"49","Alolan Vulpix",7,"Ice","None",0.6,9.9
+"50","Ninetales",1,"Fire","None",1.1,19.9
+"51","Alolan Ninetales",7,"Ice","Fairy",1.1,19.9
+"52","Jigglypuff",1,"Normal","Fairy",0.5,5.5
+"53","Wigglytuff",1,"Normal","Fairy",1,12
+"54","Zubat",1,"Poison","Flying",0.8,7.5
+"55","Golbat",1,"Poison","Flying",1.6,55
+"56","Oddish",1,"Grass","Poison",0.5,5.4
+"57","Gloom",1,"Grass","Poison",0.8,8.6
+"58","Vileplume",1,"Grass","Poison",1.2,18.6
+"59","Paras",1,"Bug","Grass",0.3,5.4
+"60","Parasect",1,"Bug","Grass",1,29.5
+"61","Venonat",1,"Bug","Poison",1,30
+"62","Venomoth",1,"Bug","Poison",1.5,12.5
+"63","Diglett",1,"Ground","None",0.2,0.8
+"64","Alolan Diglett",7,"Ground","Steel",0.2,1
+"65","Dugtrio",1,"Ground","None",0.7,33.3
+"66","Alolan Dugtrio",7,"Ground","Steel",0.7,66.6
+"67","Meowth",1,"Normal","None",0.4,4.2
+"68","Alolan Meowth",7,"Dark","None",0.4,4.2
+"69","Galarian Meowth",8,"Steel","None",0.4,7.5
+"70","Persian",1,"Normal","None",1,32
+"71","Alolan Persian",7,"Dark","None",1.1,33
+"72","Psyduck",1,"Water","None",0.8,19.6
+"73","Golduck",1,"Water","None",1.7,76.6
+"74","Mankey",1,"Fighting","None",0.5,28
+"75","Primeape",1,"Fighting","None",1,32
+"76","Growlithe",1,"Fire","None",0.7,19
+"77","Hisuian Growlithe",8,"Fire","Rock",0.8,22.7
+"78","Arcanine",1,"Fire","None",1.9,155
+"79","Hisuian Arcanine",8,"Fire","Rock",2,168
+"80","Poliwag",1,"Water","None",0.6,12.4
+"81","Poliwhirl",1,"Water","None",1,20
+"82","Poliwrath",1,"Water","Fighting",1.3,54
+"83","Abra",1,"Psychic","None",0.9,19.5
+"84","Kadabra",1,"Psychic","None",1.3,56.5
+"85","Alakazam",1,"Psychic","None",1.5,48
+"86","Mega Alakazam",6,"Psychic","None",1.2,48
+"87","Machop",1,"Fighting","None",0.8,19.5
+"88","Machoke",1,"Fighting","None",1.5,70.5
+"89","Machamp",1,"Fighting","None",1.6,130
+"90","Bellsprout",1,"Grass","Poison",0.7,4
+"91","Weepinbell",1,"Grass","Poison",1,6.4
+"92","Victreebel",1,"Grass","Poison",1.7,15.5
+"93","Tentacool",1,"Water","Poison",0.9,45.5
+"94","Tentacruel",1,"Water","Poison",1.6,55
+"95","Geodude",1,"Rock","Ground",0.4,20
+"96","Alolan Geodude",7,"Rock","Electric",0.4,20.3
+"97","Graveler",1,"Rock","Ground",1,105
+"98","Alolan Graveler",7,"Rock","Electric",1,110
+"99","Golem",1,"Rock","Ground",1.4,300
+"100","Alolan Golem",7,"Rock","Electric",1.7,316
+"101","Ponyta",1,"Fire","None",1,30
+"102","Galarian Ponyta",8,"Psychic","None",0.8,24
+"103","Rapidash",1,"Fire","None",1.7,95
+"104","Galarian Rapidash",8,"Psychic","Fairy",1.7,80
+"105","Slowpoke",1,"Water","Psychic",1.2,36
+"106","Galarian Slowpoke",8,"Psychic","None",1.2,36
+"107","Slowbro",1,"Water","Psychic",1.6,78.5
+"108","Mega Slowbro",6,"Water","Psychic",2,120
+"109","Galarian Slowbro",8,"Poison","Psychic",1.6,70.5
+"110","Magnemite",1,"Electric","Steel",0.3,6
+"111","Magneton",1,"Electric","Steel",1,60
+"112","Farfetch'd",1,"Normal","Flying",0.8,15
+"113","Galarian Farfetch'd",8,"Fighting","None",0.8,42
+"114","Doduo",1,"Normal","Flying",1.4,39.2
+"115","Dodrio",1,"Normal","Flying",1.8,85.2
+"116","Seel",1,"Water","None",1.1,90
+"117","Dewgong",1,"Water","Ice",1.7,120
+"118","Grimer",1,"Poison","None",0.9,30
+"119","Alolan Grimer",7,"Poison","Dark",0.7,42
+"120","Muk",1,"Poison","None",1.2,30
+"121","Alolan Muk",7,"Poison","Dark",1,52
+"122","Shellder",1,"Water","None",0.3,4
+"123","Cloyster",1,"Water","Ice",1.5,132.5
+"124","Gastly",1,"Ghost","Poison",1.3,0.1
+"125","Haunter",1,"Ghost","Poison",1.6,0.1
+"126","Gengar",1,"Ghost","Poison",1.5,40.5
+"127","Mega Gengar",6,"Ghost","Poison",1.4,40.5
+"128","Onix",1,"Rock","Ground",8.8,210
+"129","Drowzee",1,"Psychic","None",1,32.4
+"130","Hypno",1,"Psychic","None",1.6,75.6
+"131","Krabby",1,"Water","None",0.4,6.5
+"132","Kingler",1,"Water","None",1.3,60
+"133","Voltorb",1,"Electric","None",0.5,10.4
+"134","Hisuian Voltorb",8,"Electric","Grass",0.5,13
+"135","Electrode",1,"Electric","None",1.2,66.6
+"136","Hisuian Electrode",8,"Electric","Grass",1.2,71
+"137","Exeggcute",1,"Grass","Psychic",0.4,2.5
+"138","Exeggutor",1,"Grass","Psychic",2,120
+"139","Alolan Exeggutor",7,"Grass","Dragon",10.9,415.6
+"140","Cubone",1,"Ground","None",0.4,6.5
+"141","Marowak",1,"Ground","None",1,45
+"142","Alolan Marowak",7,"Fire","Ghost",1,34
+"143","Hitmonlee",1,"Fighting","None",1.5,49.8
+"144","Hitmonchan",1,"Fighting","None",1.4,50.2
+"145","Lickitung",1,"Normal","None",1.2,65.5
+"146","Koffing",1,"Poison","None",0.6,1
+"147","Weezing",1,"Poison","None",1.2,9.5
+"148","Galarian Weezing",8,"Poison","Fairy",3,16
+"149","Rhyhorn",1,"Ground","Rock",1,115
+"150","Rhydon",1,"Ground","Rock",1.9,120
+"151","Chansey",1,"Normal","None",1.1,34.6
+"152","Tangela",1,"Grass","None",1,35
+"153","Kangaskhan",1,"Normal","None",2.2,80
+"154","Mega Kangaskhan",6,"Normal","None",2.2,100
+"155","Horsea",1,"Water","None",0.4,8
+"156","Seadra",1,"Water","None",1.2,25
+"157","Goldeen",1,"Water","None",0.6,15
+"158","Seaking",1,"Water","None",1.3,39
+"159","Staryu",1,"Water","None",0.8,34.5
+"160","Starmie",1,"Water","Psychic",1.1,80
+"161","Mr. Mime",1,"Psychic","Fairy",1.3,54.5
+"162","Galarian Mr. Mime",8,"Ice","Psychic",1.4,56.8
+"163","Scyther",1,"Bug","Flying",1.5,56
+"164","Jynx",1,"Ice","Psychic",1.4,40.6
+"165","Electabuzz",1,"Electric","None",1.1,30
+"166","Magmar",1,"Fire","None",1.3,44.5
+"167","Pinsir",1,"Bug","None",1.5,55
+"168","Mega Pinsir",6,"Bug","Flying",1.7,59
+"169","Tauros",1,"Normal","None",1.4,88.4
+"170","Magikarp",1,"Water","None",0.9,10
+"171","Gyarados",1,"Water","Flying",6.5,235
+"172","Mega Gyarados",6,"Water","Dark",6.5,305
+"173","Lapras",1,"Water","Ice",2.5,220
+"174","Ditto",1,"Normal","None",0.3,4
+"175","Eevee",1,"Normal","None",0.3,6.5
+"176","Vaporeon",1,"Water","None",1,29
+"177","Jolteon",1,"Electric","None",0.8,24.5
+"178","Flareon",1,"Fire","None",0.9,25
+"179","Porygon",1,"Normal","None",0.8,36.5
+"180","Omanyte",1,"Rock","Water",0.4,7.5
+"181","Omastar",1,"Rock","Water",1,35
+"182","Kabuto",1,"Rock","Water",0.5,11.5
+"183","Kabutops",1,"Rock","Water",1.3,40.5
+"184","Aerodactyl",1,"Rock","Flying",1.8,59
+"185","Mega Aerodactyl",6,"Rock","Flying",2.1,79
+"186","Snorlax",1,"Normal","None",2.1,460
+"187","Articuno",1,"Ice","Flying",1.7,55.4
+"188","Galarian Articuno",8,"Psychic","Flying",1.7,50.9
+"189","Zapdos",1,"Electric","Flying",1.6,52.6
+"190","Galarian Zapdos",8,"Fighting","Flying",1.6,58.2
+"191","Moltres",1,"Fire","Flying",2,60
+"192","Galarian Moltres",8,"Dark","Flying",2,66
+"193","Dratini",1,"Dragon","None",1.8,3.3
+"194","Dragonair",1,"Dragon","None",4,16.5
+"195","Dragonite",1,"Dragon","Flying",2.2,210
+"196","Mewtwo",1,"Psychic","None",2,122
+"197","Mega Mewtwo X",6,"Psychic","Fighting",2.3,127
+"198","Mega Mewtwo Y",6,"Psychic","None",1.5,33
+"199","Mew",1,"Psychic","None",0.4,4
+"200","Chikorita",2,"Grass","None",0.9,6.4
+"201","Bayleef",2,"Grass","None",1.2,15.8
+"202","Meganium",2,"Grass","None",1.8,100.5
+"203","Cyndaquil",2,"Fire","None",0.5,7.9
+"204","Quilava",2,"Fire","None",0.9,19
+"205","Typhlosion",2,"Fire","None",1.7,79.5
+"206","Hisuian Typhlosion",8,"Fire","Ghost",1.6,69.8
+"207","Totodile",2,"Water","None",0.6,9.5
+"208","Croconaw",2,"Water","None",1.1,25
+"209","Feraligatr",2,"Water","None",2.3,88.8
+"210","Sentret",2,"Normal","None",0.8,6
+"211","Furret",2,"Normal","None",1.8,32.5
+"212","Hoothoot",2,"Normal","Flying",0.7,21.2
+"213","Noctowl",2,"Normal","Flying",1.6,40.8
+"214","Ledyba",2,"Bug","Flying",1,10.8
+"215","Ledian",2,"Bug","Flying",1.4,35.6
+"216","Spinarak",2,"Bug","Poison",0.5,8.5
+"217","Ariados",2,"Bug","Poison",1.1,33.5
+"218","Crobat",2,"Poison","Flying",1.8,75
+"219","Chinchou",2,"Water","Electric",0.5,12
+"220","Lanturn",2,"Water","Electric",1.2,22.5
+"221","Pichu",2,"Electric","None",0.3,2
+"222","Cleffa",2,"Fairy","None",0.3,3
+"223","Igglybuff",2,"Normal","Fairy",0.3,1
+"224","Togepi",2,"Fairy","None",0.3,1.5
+"225","Togetic",2,"Fairy","Flying",0.6,3.2
+"226","Natu",2,"Psychic","Flying",0.2,2
+"227","Xatu",2,"Psychic","Flying",1.5,15
+"228","Mareep",2,"Electric","None",0.6,7.8
+"229","Flaaffy",2,"Electric","None",0.8,13.3
+"230","Ampharos",2,"Electric","None",1.4,61.5
+"231","Mega Ampharos",6,"Electric","Dragon",1.4,61.5
+"232","Bellossom",2,"Grass","None",0.4,5.8
+"233","Marill",2,"Water","Fairy",0.4,8.5
+"234","Azumarill",2,"Water","Fairy",0.8,28.5
+"235","Sudowoodo",2,"Rock","None",1.2,38
+"236","Politoed",2,"Water","None",1.1,33.9
+"237","Hoppip",2,"Grass","Flying",0.4,0.5
+"238","Skiploom",2,"Grass","Flying",0.6,1
+"239","Jumpluff",2,"Grass","Flying",0.8,3
+"240","Aipom",2,"Normal","None",0.8,11.5
+"241","Sunkern",2,"Grass","None",0.3,1.8
+"242","Sunflora",2,"Grass","None",0.8,8.5
+"243","Yanma",2,"Bug","Flying",1.2,38
+"244","Wooper",2,"Water","Ground",0.4,8.5
+"245","Quagsire",2,"Water","Ground",1.4,75
+"246","Espeon",2,"Psychic","None",0.9,26.5
+"247","Umbreon",2,"Dark","None",1,27
+"248","Murkrow",2,"Dark","Flying",0.5,2.1
+"249","Slowking",2,"Water","Psychic",2,79.5
+"250","Galarian Slowking",8,"Poison","Psychic",1.8,79.5
+"251","Misdreavus",2,"Ghost","None",0.7,1
+"252","Unown",2,"Psychic","None",0.5,5
+"253","Wobbuffet",2,"Psychic","None",1.3,28.5
+"254","Girafarig",2,"Normal","Psychic",1.5,41.5
+"255","Pineco",2,"Bug","None",0.6,7.2
+"256","Forretress",2,"Bug","Steel",1.2,125.8
+"257","Dunsparce",2,"Normal","None",1.5,14
+"258","Gligar",2,"Ground","Flying",1.1,64.8
+"259","Steelix",2,"Steel","Ground",9.2,400
+"260","Mega Steelix",6,"Steel","Ground",10.5,740
+"261","Snubbull",2,"Fairy","None",0.6,7.8
+"262","Granbull",2,"Fairy","None",1.4,48.7
+"263","Qwilfish",2,"Water","Poison",0.5,3.9
+"264","Hisuian Qwilfish",8,"Dark","Poison",0.5,3.9
+"265","Scizor",2,"Bug","Steel",1.8,118
+"266","Mega Scizor",6,"Bug","Steel",2,125
+"267","Shuckle",2,"Bug","Rock",0.6,20.5
+"268","Heracross",2,"Bug","Fighting",1.5,54
+"269","Mega Heracross",6,"Bug","Fighting",1.7,62.5
+"270","Sneasel",2,"Dark","Ice",0.9,28
+"271","Hisuian Sneasel",8,"Fighting","Poison",0.9,27
+"272","Teddiursa",2,"Normal","None",0.6,8.8
+"273","Ursaring",2,"Normal","None",1.8,125.8
+"274","Slugma",2,"Fire","None",0.7,35
+"275","Magcargo",2,"Fire","Rock",0.8,55
+"276","Swinub",2,"Ice","Ground",0.4,6.5
+"277","Piloswine",2,"Ice","Ground",1.1,55.8
+"278","Corsola",2,"Water","Rock",0.6,5
+"279","Galarian Corsola",8,"Ghost","None",0.6,0.5
+"280","Remoraid",2,"Water","None",0.6,12
+"281","Octillery",2,"Water","None",0.9,28.5
+"282","Delibird",2,"Ice","Flying",0.9,16
+"283","Mantine",2,"Water","Flying",2.1,220
+"284","Skarmory",2,"Steel","Flying",1.7,50.5
+"285","Houndour",2,"Dark","Fire",0.6,10.8
+"286","Houndoom",2,"Dark","Fire",1.4,35
+"287","Mega Houndoom",6,"Dark","Fire",1.9,49.5
+"288","Kingdra",2,"Water","Dragon",1.8,152
+"289","Phanpy",2,"Ground","None",0.5,33.5
+"290","Donphan",2,"Ground","None",1.1,120
+"291","Porygon2",2,"Normal","None",0.6,32.5
+"292","Stantler",2,"Normal","None",1.4,71.2
+"293","Smeargle",2,"Normal","None",1.2,58
+"294","Tyrogue",2,"Fighting","None",0.7,21
+"295","Hitmontop",2,"Fighting","None",1.4,48
+"296","Smoochum",2,"Ice","Psychic",0.4,6
+"297","Elekid",2,"Electric","None",0.6,23.5
+"298","Magby",2,"Fire","None",0.7,21.4
+"299","Miltank",2,"Normal","None",1.2,75.5
+"300","Blissey",2,"Normal","None",1.5,46.8
+"301","Raikou",2,"Electric","None",1.9,178
+"302","Entei",2,"Fire","None",2.1,198
+"303","Suicune",2,"Water","None",2,187
+"304","Larvitar",2,"Rock","Ground",0.6,72
+"305","Pupitar",2,"Rock","Ground",1.2,152
+"306","Tyranitar",2,"Rock","Dark",2,202
+"307","Mega Tyranitar",6,"Rock","Dark",2.5,255
+"308","Lugia",2,"Psychic","Flying",5.2,216
+"309","Ho-Oh",2,"Fire","Flying",3.8,199
+"310","Celebi",2,"Psychic","Grass",0.6,5
+"311","Treecko",3,"Grass","None",0.5,5
+"312","Grovyle",3,"Grass","None",0.9,21.6
+"313","Sceptile",3,"Grass","None",1.7,52.2
+"314","Mega Sceptile",6,"Grass","Dragon",1.9,55.2
+"315","Torchic",3,"Fire","None",0.4,2.5
+"316","Combusken",3,"Fire","Fighting",0.9,19.5
+"317","Blaziken",3,"Fire","Fighting",1.9,52
+"318","Mega Blaziken",6,"Fire","Fighting",1.9,52
+"319","Mudkip",3,"Water","None",0.4,7.6
+"320","Marshtomp",3,"Water","Ground",0.7,28
+"321","Swampert",3,"Water","Ground",1.5,81.9
+"322","Mega Swampert",6,"Water","Ground",1.9,102
+"323","Poochyena",3,"Dark","None",0.5,13.6
+"324","Mightyena",3,"Dark","None",1,37
+"325","Zigzagoon",3,"Normal","None",0.4,17.5
+"326","Galarian Zigzagoon",8,"Dark","Normal",0.4,17.5
+"327","Linoone",3,"Normal","None",0.5,32.5
+"328","Galarian Linoone",8,"Dark","Normal",0.5,32.5
+"329","Wurmple",3,"Bug","None",0.3,3.6
+"330","Silcoon",3,"Bug","None",0.6,10
+"331","Beautifly",3,"Bug","Flying",1,28.4
+"332","Cascoon",3,"Bug","None",0.7,11.5
+"333","Dustox",3,"Bug","Poison",1.2,31.6
+"334","Lotad",3,"Water","Grass",0.5,2.6
+"335","Lombre",3,"Water","Grass",1.2,32.5
+"336","Ludicolo",3,"Water","Grass",1.5,55
+"337","Seedot",3,"Grass","None",0.5,4
+"338","Nuzleaf",3,"Grass","Dark",1,28
+"339","Shiftry",3,"Grass","Dark",1.3,59.6
+"340","Taillow",3,"Normal","Flying",0.3,2.3
+"341","Swellow",3,"Normal","Flying",0.7,19.8
+"342","Wingull",3,"Water","Flying",0.6,9.5
+"343","Pelipper",3,"Water","Flying",1.2,28
+"344","Ralts",3,"Psychic","Fairy",0.4,6.6
+"345","Kirlia",3,"Psychic","Fairy",0.8,20.2
+"346","Gardevoir",3,"Psychic","Fairy",1.6,48.4
+"347","Mega Gardevoir",6,"Psychic","Fairy",1.6,48.4
+"348","Surskit",3,"Bug","Water",0.5,1.7
+"349","Masquerain",3,"Bug","Flying",0.8,3.6
+"350","Shroomish",3,"Grass","None",0.4,4.5
+"351","Breloom",3,"Grass","Fighting",1.2,39.2
+"352","Slakoth",3,"Normal","None",0.8,24
+"353","Vigoroth",3,"Normal","None",1.4,46.5
+"354","Slaking",3,"Normal","None",2,130.5
+"355","Nincada",3,"Bug","Ground",0.5,5.5
+"356","Ninjask",3,"Bug","Flying",0.8,12
+"357","Shedinja",3,"Bug","Ghost",0.8,1.2
+"358","Whismur",3,"Normal","None",0.6,16.3
+"359","Loudred",3,"Normal","None",1,40.5
+"360","Exploud",3,"Normal","None",1.5,84
+"361","Makuhita",3,"Fighting","None",1,86.4
+"362","Hariyama",3,"Fighting","None",2.3,253.8
+"363","Azurill",3,"Normal","Fairy",0.2,2
+"364","Nosepass",3,"Rock","None",1,97
+"365","Skitty",3,"Normal","None",0.6,11
+"366","Delcatty",3,"Normal","None",1.1,32.6
+"367","Sableye",3,"Dark","Ghost",0.5,11
+"368","Mega Sableye",6,"Dark","Ghost",0.5,161
+"369","Mawile",3,"Steel","Fairy",0.6,11.5
+"370","Mega Mawile",6,"Steel","Fairy",1,23.5
+"371","Aron",3,"Steel","Rock",0.4,60
+"372","Lairon",3,"Steel","Rock",0.9,120
+"373","Aggron",3,"Steel","Rock",2.1,360
+"374","Mega Aggron",6,"Steel","None",2.2,395
+"375","Meditite",3,"Fighting","Psychic",0.6,11.2
+"376","Medicham",3,"Fighting","Psychic",1.3,31.5
+"377","Mega Medicham",6,"Fighting","Psychic",1.3,31.5
+"378","Electrike",3,"Electric","None",0.6,15.2
+"379","Manectric",3,"Electric","None",1.5,40.2
+"380","Mega Manectric",6,"Electric","None",1.8,44
+"381","Plusle",3,"Electric","None",0.4,4.2
+"382","Minun",3,"Electric","None",0.4,4.2
+"383","Volbeat",3,"Bug","None",0.7,17.7
+"384","Illumise",3,"Bug","None",0.6,17.7
+"385","Roselia",3,"Grass","Poison",0.3,2
+"386","Gulpin",3,"Poison","None",0.4,10.3
+"387","Swalot",3,"Poison","None",1.7,80
+"388","Carvanha",3,"Water","Dark",0.8,20.8
+"389","Sharpedo",3,"Water","Dark",1.8,88.8
+"390","Mega Sharpedo",6,"Water","Dark",2.5,130.3
+"391","Wailmer",3,"Water","None",2,130
+"392","Wailord",3,"Water","None",14.5,398
+"393","Numel",3,"Fire","Ground",0.7,24
+"394","Camerupt",3,"Fire","Ground",1.9,220
+"395","Mega Camerupt",6,"Fire","Ground",2.5,320.5
+"396","Torkoal",3,"Fire","None",0.5,80.4
+"397","Spoink",3,"Psychic","None",0.7,30.6
+"398","Grumpig",3,"Psychic","None",0.9,71.5
+"399","Spinda",3,"Normal","None",1.1,5
+"400","Trapinch",3,"Ground","None",0.7,15
+"401","Vibrava",3,"Ground","Dragon",1.1,15.3
+"402","Flygon",3,"Ground","Dragon",2,82
+"403","Cacnea",3,"Grass","None",0.4,51.3
+"404","Cacturne",3,"Grass","Dark",1.3,77.4
+"405","Swablu",3,"Normal","Flying",0.4,1.2
+"406","Altaria",3,"Dragon","Flying",1.1,20.6
+"407","Mega Altaria",6,"Dragon","Fairy",1.5,20.6
+"408","Zangoose",3,"Normal","None",1.3,40.3
+"409","Seviper",3,"Poison","None",2.7,52.5
+"410","Lunatone",3,"Rock","Psychic",1,168
+"411","Solrock",3,"Rock","Psychic",1.2,154
+"412","Barboach",3,"Water","Ground",0.4,1.9
+"413","Whiscash",3,"Water","Ground",0.9,23.6
+"414","Corphish",3,"Water","None",0.6,11.5
+"415","Crawdaunt",3,"Water","Dark",1.1,32.8
+"416","Baltoy",3,"Ground","Psychic",0.5,21.5
+"417","Claydol",3,"Ground","Psychic",1.5,108
+"418","Lileep",3,"Rock","Grass",1,23.8
+"419","Cradily",3,"Rock","Grass",1.5,60.4
+"420","Anorith",3,"Rock","Bug",0.7,12.5
+"421","Armaldo",3,"Rock","Bug",1.5,68.2
+"422","Feebas",3,"Water","None",0.6,7.4
+"423","Milotic",3,"Water","None",6.2,162
+"424","Castform",3,"Normal","None",0.3,0.8
+"425","Castform Sunny Form",3,"Fire","None",0.3,0.8
+"426","Castform Rainy Form",3,"Water","None",0.3,0.8
+"427","Castform Snowy Form",3,"Ice","None",0.3,0.8
+"428","Kecleon",3,"Normal","None",1,22
+"429","Shuppet",3,"Ghost","None",0.6,2.3
+"430","Banette",3,"Ghost","None",1.1,12.5
+"431","Mega Banette",6,"Ghost","None",1.2,13
+"432","Duskull",3,"Ghost","None",0.8,15
+"433","Dusclops",3,"Ghost","None",1.6,30.6
+"434","Tropius",3,"Grass","Flying",2,100
+"435","Chimecho",3,"Psychic","None",0.6,1
+"436","Absol",3,"Dark","None",1.2,47
+"437","Mega Absol",6,"Dark","None",1.2,49
+"438","Wynaut",3,"Psychic","None",0.6,14
+"439","Snorunt",3,"Ice","None",0.7,16.8
+"440","Glalie",3,"Ice","None",1.5,256.5
+"441","Mega Glalie",6,"Ice","None",2.1,350.2
+"442","Spheal",3,"Ice","Water",0.8,39.5
+"443","Sealeo",3,"Ice","Water",1.1,87.6
+"444","Walrein",3,"Ice","Water",1.4,150.6
+"445","Clamperl",3,"Water","None",0.4,52.5
+"446","Huntail",3,"Water","None",1.7,27
+"447","Gorebyss",3,"Water","None",1.8,22.6
+"448","Relicanth",3,"Water","Rock",1,23.4
+"449","Luvdisc",3,"Water","None",0.6,8.7
+"450","Bagon",3,"Dragon","None",0.6,42.1
+"451","Shelgon",3,"Dragon","None",1.1,110.5
+"452","Salamence",3,"Dragon","Flying",1.5,102.6
+"453","Mega Salamence",6,"Dragon","Flying",1.8,112.6
+"454","Beldum",3,"Steel","Psychic",0.6,95.2
+"455","Metang",3,"Steel","Psychic",1.2,202.5
+"456","Metagross",3,"Steel","Psychic",1.6,550
+"457","Mega Metagross",6,"Steel","Psychic",2.5,942.9
+"458","Regirock",3,"Rock","None",1.7,230
+"459","Regice",3,"Ice","None",1.8,175
+"460","Registeel",3,"Steel","None",1.9,205
+"461","Latias",3,"Dragon","Psychic",1.4,40
+"462","Mega Latias",6,"Dragon","Psychic",1.8,52
+"463","Latios",3,"Dragon","Psychic",2,60
+"464","Mega Latios",6,"Dragon","Psychic",2.3,70
+"465","Kyogre",3,"Water","None",4.5,352
+"466","Primal Kyogre",6,"Water","None",9.8,430
+"467","Groudon",3,"Ground","None",3.5,950
+"468","Primal Groudon",6,"Ground","Fire",5,999.7
+"469","Rayquaza",3,"Dragon","Flying",7,206.5
+"470","Mega Rayquaza",6,"Dragon","Flying",10.8,392
+"471","Jirachi",3,"Steel","Psychic",0.3,1.1
+"472","Deoxys",3,"Psychic","None",1.7,60.8
+"473","Turtwig",4,"Grass","None",0.4,10.2
+"474","Grotle",4,"Grass","None",1.1,97
+"475","Torterra",4,"Grass","Ground",2.2,310
+"476","Chimchar",4,"Fire","None",0.5,6.2
+"477","Monferno",4,"Fire","Fighting",0.9,22
+"478","Infernape",4,"Fire","Fighting",1.2,55
+"479","Piplup",4,"Water","None",0.4,5.2
+"480","Prinplup",4,"Water","None",0.8,23
+"481","Empoleon",4,"Water","Steel",1.7,84.5
+"482","Starly",4,"Normal","Flying",0.3,2
+"483","Staravia",4,"Normal","Flying",0.6,15.5
+"484","Staraptor",4,"Normal","Flying",1.2,24.9
+"485","Bidoof",4,"Normal","None",0.5,20
+"486","Bibarel",4,"Normal","Water",1,31.5
+"487","Kricketot",4,"Bug","None",0.3,2.2
+"488","Kricketune",4,"Bug","None",1,25.5
+"489","Shinx",4,"Electric","None",0.5,9.5
+"490","Luxio",4,"Electric","None",0.9,30.5
+"491","Luxray",4,"Electric","None",1.4,42
+"492","Budew",4,"Grass","Poison",0.2,1.2
+"493","Roserade",4,"Grass","Poison",0.9,14.5
+"494","Cranidos",4,"Rock","None",0.9,31.5
+"495","Rampardos",4,"Rock","None",1.6,102.5
+"496","Shieldon",4,"Rock","Steel",0.5,57
+"497","Bastiodon",4,"Rock","Steel",1.3,149.5
+"498","Burmy",4,"Bug","None",0.2,3.4
+"499","Wormadam Plant Cloak",4,"Bug","Grass",0.5,6.5
+"500","Wormadam Sandy Cloak",4,"Bug","Ground",0.5,6.5
+"501","Wormadam Trash Cloak",4,"Bug","Steel",0.5,6.5
+"502","Mothim",4,"Bug","Flying",0.9,23.3
+"503","Combee",4,"Bug","Flying",0.3,5.5
+"504","Vespiquen",4,"Bug","Flying",1.2,38.5
+"505","Pachirisu",4,"Electric","None",0.4,3.9
+"506","Buizel",4,"Water","None",0.7,29.5
+"507","Floatzel",4,"Water","None",1.1,33.5
+"508","Cherubi",4,"Grass","None",0.4,3.3
+"509","Cherrim",4,"Grass","None",0.5,9.3
+"510","Shellos",4,"Water","None",0.3,6.3
+"511","Gastrodon",4,"Water","Ground",0.9,29.9
+"512","Ambipom",4,"Normal","None",1.2,20.3
+"513","Drifloon",4,"Ghost","Flying",0.4,1.2
+"514","Drifblim",4,"Ghost","Flying",1.2,15
+"515","Buneary",4,"Normal","None",0.4,5.5
+"516","Lopunny",4,"Normal","None",1.2,33.3
+"517","Mega Lopunny",6,"Normal","Fighting",1.3,28.3
+"518","Mismagius",4,"Ghost","None",0.9,4.4
+"519","Honchkrow",4,"Dark","Flying",0.9,27.3
+"520","Glameow",4,"Normal","None",0.5,3.9
+"521","Purugly",4,"Normal","None",1,43.8
+"522","Chingling",4,"Psychic","None",0.2,0.6
+"523","Stunky",4,"Poison","Dark",0.4,19.2
+"524","Skuntank",4,"Poison","Dark",1,38
+"525","Bronzor",4,"Steel","Psychic",0.5,60.5
+"526","Bronzong",4,"Steel","Psychic",1.3,187
+"527","Bonsly",4,"Rock","None",0.5,15
+"528","Mime Jr.",4,"Psychic","Fairy",0.6,13
+"529","Happiny",4,"Normal","None",0.6,24.4
+"530","Chatot",4,"Normal","Flying",0.5,1.9
+"531","Spiritomb",4,"Ghost","Dark",1,108
+"532","Gible",4,"Dragon","Ground",0.7,20.5
+"533","Gabite",4,"Dragon","Ground",1.4,56
+"534","Garchomp",4,"Dragon","Ground",1.9,95
+"535","Mega Garchomp",6,"Dragon","Ground",1.9,95
+"536","Munchlax",4,"Normal","None",0.6,105
+"537","Riolu",4,"Fighting","None",0.7,20.2
+"538","Lucario",4,"Fighting","Steel",1.2,54
+"539","Mega Lucario",6,"Fighting","Steel",1.3,57.5
+"540","Hippopotas",4,"Ground","None",0.8,49.5
+"541","Hippowdon",4,"Ground","None",2,300
+"542","Skorupi",4,"Poison","Bug",0.8,12
+"543","Drapion",4,"Poison","Dark",1.3,61.5
+"544","Croagunk",4,"Poison","Fighting",0.7,23
+"545","Toxicroak",4,"Poison","Fighting",1.3,44.4
+"546","Carnivine",4,"Grass","None",1.4,27
+"547","Finneon",4,"Water","None",0.4,7
+"548","Lumineon",4,"Water","None",1.2,24
+"549","Mantyke",4,"Water","Flying",1,65
+"550","Snover",4,"Grass","Ice",1,50.5
+"551","Abomasnow",4,"Grass","Ice",2.2,135.5
+"552","Mega Abomasnow",6,"Grass","Ice",2.7,185
+"553","Weavile",4,"Dark","Ice",1.1,34
+"554","Magnezone",4,"Electric","Steel",1.2,180
+"555","Lickilicky",4,"Normal","None",1.7,140
+"556","Rhyperior",4,"Ground","Rock",2.4,282.8
+"557","Tangrowth",4,"Grass","None",2,128.6
+"558","Electivire",4,"Electric","None",1.8,138.6
+"559","Magmortar",4,"Fire","None",1.6,68
+"560","Togekiss",4,"Fairy","Flying",1.5,38
+"561","Yanmega",4,"Bug","Flying",1.9,51.5
+"562","Leafeon",4,"Grass","None",1,25.5
+"563","Glaceon",4,"Ice","None",0.8,25.9
+"564","Gliscor",4,"Ground","Flying",2,42.5
+"565","Mamoswine",4,"Ice","Ground",2.5,291
+"566","Porygon-Z",4,"Normal","None",0.9,34
+"567","Gallade",4,"Psychic","Fighting",1.6,52
+"568","Mega Gallade",6,"Psychic","Fighting",1.6,56.4
+"569","Probopass",4,"Rock","Steel",1.4,340
+"570","Dusknoir",4,"Ghost","None",2.2,106.6
+"571","Froslass",4,"Ice","Ghost",1.3,26.6
+"572","Rotom",4,"Electric","Ghost",0.3,0.3
+"573","Heat Rotom",4,"Electric","Fire",0.3,0.3
+"574","Wash Rotom",4,"Electric","Water",0.3,0.3
+"575","Frost Rotom",4,"Electric","Ice",0.3,0.3
+"576","Fan Rotom",4,"Electric","Flying",0.3,0.3
+"577","Mow Rotom",4,"Electric","Grass",0.3,0.3
+"578","Uxie",4,"Psychic","None",0.3,0.3
+"579","Mesprit",4,"Psychic","None",0.3,0.3
+"580","Azelf",4,"Psychic","None",0.3,0.3
+"581","Dialga",4,"Steel","Dragon",5.4,683
+"582","Dialga Origin Forme",8,"Steel","Dragon",7,850
+"583","Palkia",4,"Water","Dragon",4.2,336
+"584","Palkia Origin Forme",8,"Water","Dragon",6.3,660
+"585","Heatran",4,"Fire","Steel",1.7,430
+"586","Regigigas",4,"Normal","None",3.7,420
+"587","Giratina Altered Forme",4,"Ghost","Dragon",4.5,750
+"588","Giratina Origin Forme",4,"Ghost","Dragon",6.9,650
+"589","Cresselia",4,"Psychic","None",1.5,85.6
+"590","Phione",4,"Water","None",0.4,3.1
+"591","Manaphy",4,"Water","None",0.3,1.4
+"592","Darkrai",4,"Dark","None",1.5,50.5
+"593","Shaymin Land Forme",4,"Grass","None",0.2,2.1
+"594","Shaymin Sky Forme",4,"Grass","Flying",0.4,5.2
+"595","Arceus",4,"Normal","None",3.2,320
+"596","Victini",5,"Psychic","Fire",0.4,4
+"597","Snivy",5,"Grass","None",0.6,8.1
+"598","Servine",5,"Grass","None",0.8,16
+"599","Serperior",5,"Grass","None",3.3,63
+"600","Tepig",5,"Fire","None",0.5,9.9
+"601","Pignite",5,"Fire","Fighting",1,55.5
+"602","Emboar",5,"Fire","Fighting",1.6,150
+"603","Oshawott",5,"Water","None",0.5,5.9
+"604","Dewott",5,"Water","None",0.8,24.5
+"605","Samurott",5,"Water","None",1.5,94.6
+"606","Hisuian Samurott",8,"Water","Dark",1.5,58.2
+"607","Patrat",5,"Normal","None",0.5,11.6
+"608","Watchog",5,"Normal","None",1.1,27
+"609","Lillipup",5,"Normal","None",0.4,4.1
+"610","Herdier",5,"Normal","None",0.9,14.7
+"611","Stoutland",5,"Normal","None",1.2,61
+"612","Purrloin",5,"Dark","None",0.4,10.1
+"613","Liepard",5,"Dark","None",1.1,37.5
+"614","Pansage",5,"Grass","None",0.6,10.5
+"615","Simisage",5,"Grass","None",1.1,30.5
+"616","Pansear",5,"Fire","None",0.6,11
+"617","Simisear",5,"Fire","None",1,28
+"618","Panpour",5,"Water","None",0.6,13.5
+"619","Simipour",5,"Water","None",1,29
+"620","Munna",5,"Psychic","None",0.6,23.3
+"621","Musharna",5,"Psychic","None",1.1,60.5
+"622","Pidove",5,"Normal","Flying",0.3,2.1
+"623","Tranquill",5,"Normal","Flying",0.6,15
+"624","Unfezant",5,"Normal","Flying",1.2,29
+"625","Blitzle",5,"Electric","None",0.8,29.8
+"626","Zebstrika",5,"Electric","None",1.6,79.5
+"627","Roggenrola",5,"Rock","None",0.4,18
+"628","Boldore",5,"Rock","None",0.9,102
+"629","Gigalith",5,"Rock","None",1.7,260
+"630","Woobat",5,"Psychic","Flying",0.4,2.1
+"631","Swoobat",5,"Psychic","Flying",0.9,10.5
+"632","Drilbur",5,"Ground","None",0.3,8.5
+"633","Excadrill",5,"Ground","Steel",0.7,40.4
+"634","Audino",5,"Normal","None",1.1,31
+"635","Mega Audino",6,"Normal","Fairy",1.5,32
+"636","Timburr",5,"Fighting","None",0.6,12.5
+"637","Gurdurr",5,"Fighting","None",1.2,40
+"638","Conkeldurr",5,"Fighting","None",1.4,87
+"639","Tympole",5,"Water","None",0.5,4.5
+"640","Palpitoad",5,"Water","Ground",0.8,17
+"641","Seismitoad",5,"Water","Ground",1.5,62
+"642","Throh",5,"Fighting","None",1.3,55.5
+"643","Sawk",5,"Fighting","None",1.4,51
+"644","Sewaddle",5,"Bug","Grass",0.3,2.5
+"645","Swadloon",5,"Bug","Grass",0.5,7.3
+"646","Leavanny",5,"Bug","Grass",1.2,20.5
+"647","Venipede",5,"Bug","Poison",0.4,5.3
+"648","Whirlipede",5,"Bug","Poison",1.2,58.5
+"649","Scolipede",5,"Bug","Poison",2.5,200.5
+"650","Cottonee",5,"Grass","Fairy",0.3,0.6
+"651","Whimsicott",5,"Grass","Fairy",0.7,6.6
+"652","Petilil",5,"Grass","None",0.5,6.6
+"653","Lilligant",5,"Grass","None",1.1,16.3
+"654","Hisuian Lilligant",8,"Grass","Fighting",1.2,19.2
+"655","Basculin",5,"Water","None",1,18
+"656","Sandile",5,"Ground","Dark",0.7,15.2
+"657","Krokorok",5,"Ground","Dark",1,33.4
+"658","Krookodile",5,"Ground","Dark",1.5,96.3
+"659","Darumaka",5,"Fire","None",0.6,37.5
+"660","Galarian Darumaka",8,"Ice","None",0.7,40
+"661","Darmanitan Standard Mode",5,"Fire","None",1.3,92.9
+"662","Darmanitan Zen Mode",5,"Fire","Psychic",1.3,92.9
+"663","Galarian Darmanitan Standard Mode",8,"Ice","None",1.7,120
+"664","Galarian Darmanitan Zen Mode",8,"Ice","Fire",1.7,120
+"665","Maractus",5,"Grass","None",1,28
+"666","Dwebble",5,"Bug","Rock",0.3,14.5
+"667","Crustle",5,"Bug","Rock",1.4,200
+"668","Scraggy",5,"Dark","Fighting",0.6,11.8
+"669","Scrafty",5,"Dark","Fighting",1.1,30
+"670","Sigilyph",5,"Psychic","Flying",1.4,14
+"671","Yamask",5,"Ghost","None",0.5,1.5
+"672","Galarian Yamask",8,"Ground","Ghost",0.5,1.5
+"673","Cofagrigus",5,"Ghost","None",1.7,76.5
+"674","Tirtouga",5,"Water","Rock",0.7,16.5
+"675","Carracosta",5,"Water","Rock",1.2,81
+"676","Archen",5,"Rock","Flying",0.5,9.5
+"677","Archeops",5,"Rock","Flying",1.4,32
+"678","Trubbish",5,"Poison","None",0.6,31
+"679","Garbodor",5,"Poison","None",1.9,107.3
+"680","Zorua",5,"Dark","None",0.7,12.5
+"681","Hisuian Zorua",8,"Normal","Ghost",0.7,12.5
+"682","Zoroark",5,"Dark","None",1.6,81.1
+"683","Hisuian Zoroark",8,"Normal","Ghost",1.6,73
+"684","Minccino",5,"Normal","None",0.4,5.8
+"685","Cinccino",5,"Normal","None",0.5,7.5
+"686","Gothita",5,"Psychic","None",0.4,5.8
+"687","Gothorita",5,"Psychic","None",0.7,18
+"688","Gothitelle",5,"Psychic","None",1.5,44
+"689","Solosis",5,"Psychic","None",0.3,1
+"690","Duosion",5,"Psychic","None",0.6,8
+"691","Reuniclus",5,"Psychic","None",1,20.1
+"692","Ducklett",5,"Water","Flying",0.5,5.5
+"693","Swanna",5,"Water","Flying",1.3,24.2
+"694","Vanillite",5,"Ice","None",0.4,5.7
+"695","Vanillish",5,"Ice","None",1.1,41
+"696","Vanilluxe",5,"Ice","None",1.3,57.5
+"697","Deerling",5,"Normal","Grass",0.6,19.5
+"698","Sawsbuck",5,"Normal","Grass",1.9,92.5
+"699","Emolga",5,"Electric","Flying",0.4,5
+"700","Karrablast",5,"Bug","None",0.5,5.9
+"701","Escavalier",5,"Bug","Steel",1,33
+"702","Foongus",5,"Grass","Poison",0.2,1
+"703","Amoonguss",5,"Grass","Poison",0.6,10.5
+"704","Frillish",5,"Water","Ghost",1.2,33
+"705","Jellicent",5,"Water","Ghost",2.2,135
+"706","Alomomola",5,"Water","None",1.2,31.6
+"707","Joltik",5,"Bug","Electric",0.1,0.6
+"708","Galvantula",5,"Bug","Electric",0.8,14.3
+"709","Ferroseed",5,"Grass","Steel",0.6,18.8
+"710","Ferrothorn",5,"Grass","Steel",1,110
+"711","Klink",5,"Steel","None",0.3,21
+"712","Klang",5,"Steel","None",0.6,51
+"713","Klinklang",5,"Steel","None",0.6,81
+"714","Tynamo",5,"Electric","None",0.2,0.3
+"715","Eelektrik",5,"Electric","None",1.2,22
+"716","Eelektross",5,"Electric","None",2.1,80.5
+"717","Elgyem",5,"Psychic","None",0.5,9
+"718","Beheeyem",5,"Psychic","None",1,34.5
+"719","Litwick",5,"Ghost","Fire",0.3,3.1
+"720","Lampent",5,"Ghost","Fire",0.6,13
+"721","Chandelure",5,"Ghost","Fire",1,34.3
+"722","Axew",5,"Dragon","None",0.6,18
+"723","Fraxure",5,"Dragon","None",1,36
+"724","Haxorus",5,"Dragon","None",1.8,105.5
+"725","Cubchoo",5,"Ice","None",0.5,8.5
+"726","Beartic",5,"Ice","None",2.6,260
+"727","Cryogonal",5,"Ice","None",1.1,148
+"728","Shelmet",5,"Bug","None",0.4,7.7
+"729","Accelgor",5,"Bug","None",0.8,25.3
+"730","Stunfisk",5,"Ground","Electric",0.7,11
+"731","Galarian Stunfisk",8,"Ground","Steel",0.7,20.5
+"732","Mienfoo",5,"Fighting","None",0.9,20
+"733","Mienshao",5,"Fighting","None",1.4,35.5
+"734","Druddigon",5,"Dragon","None",1.6,139
+"735","Golett",5,"Ground","Ghost",1,92
+"736","Golurk",5,"Ground","Ghost",2.8,330
+"737","Pawniard",5,"Dark","Steel",0.5,10.2
+"738","Bisharp",5,"Dark","Steel",1.6,70
+"739","Bouffalant",5,"Normal","None",1.6,94.6
+"740","Rufflet",5,"Normal","Flying",0.5,10.5
+"741","Braviary",5,"Normal","Flying",1.5,41
+"742","Hisuian Braviary",8,"Psychic","Flying",1.7,43.4
+"743","Vullaby",5,"Dark","Flying",0.5,9
+"744","Mandibuzz",5,"Dark","Flying",1.2,39.5
+"745","Heatmor",5,"Fire","None",1.4,58
+"746","Durant",5,"Bug","Steel",0.3,33
+"747","Deino",5,"Dark","Dragon",0.8,17.3
+"748","Zweilous",5,"Dark","Dragon",1.4,50
+"749","Hydreigon",5,"Dark","Dragon",1.8,160
+"750","Larvesta",5,"Bug","Fire",1.1,28.8
+"751","Volcarona",5,"Bug","Fire",1.6,46
+"752","Cobalion",5,"Steel","Fighting",2.1,250
+"753","Terrakion",5,"Rock","Fighting",1.9,260
+"754","Virizion",5,"Grass","Fighting",2,200
+"755","Tornadus Incarnate Forme",5,"Flying","None",1.5,63
+"756","Tornadus Therian Forme",5,"Flying","None",1.4,63
+"757","Thundurus Incarnate Forme",5,"Electric","Flying",1.5,61
+"758","Thundurus Therian Forme",5,"Electric","Flying",3,61
+"759","Reshiram",5,"Dragon","Fire",3.2,330
+"760","Zekrom",5,"Dragon","Electric",2.9,345
+"761","Landorus Incarnate Forme",5,"Ground","Flying",1.5,68
+"762","Landorus Therian Forme",5,"Ground","Flying",1.3,68
+"763","Kyurem",5,"Dragon","Ice",3,325
+"764","Black Kyurem",5,"Dragon","Ice",3.3,325
+"765","White Kyurem",5,"Dragon","Ice",3.6,325
+"766","Keldeo",5,"Water","Fighting",1.4,48.5
+"767","Meloetta Aria Forme",5,"Normal","Psychic",0.6,6.5
+"768","Meloetta Pirouette Forme",5,"Normal","Fighting",0.6,6.5
+"769","Genesect",5,"Bug","Steel",1.5,82.5
+"770","Chespin",6,"Grass","None",0.4,9
+"771","Quilladin",6,"Grass","None",0.7,29
+"772","Chesnaught",6,"Grass","Fighting",1.6,90
+"773","Fennekin",6,"Fire","None",0.4,9.4
+"774","Braixen",6,"Fire","None",1,14.5
+"775","Delphox",6,"Fire","Psychic",1.5,39
+"776","Froakie",6,"Water","None",0.3,7
+"777","Frogadier",6,"Water","None",0.6,10.9
+"778","Greninja",6,"Water","Dark",1.5,40
+"779","Ash-Greninja",7,"Water","Dark",1.5,40
+"780","Bunnelby",6,"Normal","None",0.4,5
+"781","Diggersby",6,"Normal","Ground",1,42.4
+"782","Fletchling",6,"Normal","Flying",0.3,1.7
+"783","Fletchinder",6,"Fire","Flying",0.7,16
+"784","Talonflame",6,"Fire","Flying",1.2,24.5
+"785","Scatterbug",6,"Bug","None",0.3,2.5
+"786","Spewpa",6,"Bug","None",0.3,8.4
+"787","Vivillon",6,"Bug","Flying",1.2,17
+"788","Litleo",6,"Fire","Normal",0.6,13.5
+"789","Pyroar",6,"Fire","Normal",1.5,81.5
+"790","Flabébé",6,"Fairy","None",0.1,0.1
+"791","Floette",6,"Fairy","None",0.2,0.9
+"792","Florges",6,"Fairy","None",1.1,10
+"793","Skiddo",6,"Grass","None",0.9,31
+"794","Gogoat",6,"Grass","None",1.7,91
+"795","Pancham",6,"Fighting","None",0.6,8
+"796","Pangoro",6,"Fighting","Dark",2.1,136
+"797","Furfrou",6,"Normal","None",1.2,28
+"798","Espurr",6,"Psychic","None",0.3,3.5
+"799","Meowstic",6,"Psychic","None",0.6,8.5
+"800","Honedge",6,"Steel","Ghost",0.8,2
+"801","Doublade",6,"Steel","Ghost",0.8,4.5
+"802","Aegislash",6,"Steel","Ghost",1.7,53
+"803","Spritzee",6,"Fairy","None",0.2,0.5
+"804","Aromatisse",6,"Fairy","None",0.8,15.5
+"805","Swirlix",6,"Fairy","None",0.4,3.5
+"806","Slurpuff",6,"Fairy","None",0.8,5
+"807","Inkay",6,"Dark","Psychic",0.4,3.5
+"808","Malamar",6,"Dark","Psychic",1.5,47
+"809","Binacle",6,"Rock","Water",0.5,31
+"810","Barbaracle",6,"Rock","Water",1.3,96
+"811","Skrelp",6,"Poison","Water",0.5,7.3
+"812","Dragalge",6,"Poison","Dragon",1.8,81.5
+"813","Clauncher",6,"Water","None",0.5,8.3
+"814","Clawitzer",6,"Water","None",1.3,35.3
+"815","Helioptile",6,"Electric","Normal",0.5,6
+"816","Heliolisk",6,"Electric","Normal",1,21
+"817","Tyrunt",6,"Rock","Dragon",0.8,26
+"818","Tyrantrum",6,"Rock","Dragon",2.5,270
+"819","Amaura",6,"Rock","Ice",1.3,25.2
+"820","Aurorus",6,"Rock","Ice",2.7,225
+"821","Sylveon",6,"Fairy","None",1,23.5
+"822","Hawlucha",6,"Fighting","Flying",0.8,21.5
+"823","Dedenne",6,"Electric","Fairy",0.2,2.2
+"824","Carbink",6,"Rock","Fairy",0.3,5.7
+"825","Goomy",6,"Dragon","None",0.3,2.8
+"826","Sliggoo",6,"Dragon","None",0.8,17.5
+"827","Hisuian Sliggoo",8,"Steel","Dragon",0.7,68.5
+"828","Goodra",6,"Dragon","None",2,150.5
+"829","Hisuian Goodra",8,"Steel","Dragon",1.7,334.1
+"830","Klefki",6,"Steel","Fairy",0.2,3
+"831","Phantump",6,"Ghost","Grass",0.4,7
+"832","Trevenant",6,"Ghost","Grass",1.5,71
+"833","Pumpkaboo",6,"Ghost","Grass",0.4,5
+"834","Gourgeist",6,"Ghost","Grass",0.9,12.5
+"835","Bergmite",6,"Ice","None",1,99.5
+"836","Avalugg",6,"Ice","None",2,505
+"837","Hisuian Avalugg",8,"Ice","Rock",1.4,262.4
+"838","Noibat",6,"Flying","Dragon",0.5,8
+"839","Noivern",6,"Flying","Dragon",1.5,85
+"840","Xerneas",6,"Fairy","None",3,215
+"841","Yveltal",6,"Dark","Flying",5.8,203
+"842","Zygarde 50% Forme",6,"Dragon","Ground",5,305
+"843","Zygarde 10% Forme",7,"Dragon","Ground",1.2,33.5
+"844","Zygarde Complete Forme",7,"Dragon","Ground",4.5,610
+"845","Diancie",6,"Rock","Fairy",0.7,8.8
+"846","Mega Diancie",6,"Rock","Fairy",1.1,27.8
+"847","Hoopa Confined",6,"Psychic","Ghost",0.5,9
+"848","Hoopa Unbound",6,"Psychic","Dark",6.5,490
+"849","Volcanion",6,"Fire","Water",1.7,195
+"850","Rowlet",7,"Grass","Flying",0.3,1.5
+"851","Dartrix",7,"Grass","Flying",0.7,16
+"852","Decidueye",7,"Grass","Ghost",1.6,36.6
+"853","Hisuian Decidueye",8,"Grass","Fighting",1.6,37
+"854","Litten",7,"Fire","None",0.4,4.3
+"855","Torracat",7,"Fire","None",0.7,25
+"856","Incineroar",7,"Fire","Dark",1.8,83
+"857","Popplio",7,"Water","None",0.4,7.5
+"858","Brionne",7,"Water","None",0.6,17.5
+"859","Primarina",7,"Water","Fairy",1.8,44
+"860","Pikipek",7,"Normal","Flying",0.3,1.2
+"861","Trumbeak",7,"Normal","Flying",0.6,14.8
+"862","Toucannon",7,"Normal","Flying",1.1,26
+"863","Yungoos",7,"Normal","None",0.4,6
+"864","Gumshoos",7,"Normal","None",0.7,14.2
+"865","Grubbin",7,"Bug","None",0.4,4.4
+"866","Charjabug",7,"Bug","Electric",0.5,10.5
+"867","Vikavolt",7,"Bug","Electric",1.5,45
+"868","Crabrawler",7,"Fighting","None",0.6,7
+"869","Crabominable",7,"Fighting","Ice",1.7,180
+"870","Oricorio Baile Style",7,"Fire","Flying",0.6,3.4
+"871","Oricorio Pom-Pom Style",7,"Electric","Flying",0.6,3.4
+"872","Oricorio Pa'u Style",7,"Psychic","Flying",0.6,3.4
+"873","Oricorio Sensu Style",7,"Ghost","Flying",0.6,3.4
+"874","Cutiefly",7,"Bug","Fairy",0.1,0.2
+"875","Ribombee",7,"Bug","Fairy",0.2,0.5
+"876","Rockruff",7,"Rock","None",0.5,9.2
+"877","Lycanroc Midday Form",7,"Rock","None",0.8,25
+"878","Lycanroc Midnight Form",7,"Rock","None",1.1,25
+"879","Lycanroc Dusk Form",7,"Rock","None",0.8,25
+"880","Wishiwashi Solo Form",7,"Water","None",0.2,0.3
+"881","Wishiwashi School Form",7,"Water","None",8.2,78.6
+"882","Mareanie",7,"Poison","Water",0.4,8
+"883","Toxapex",7,"Poison","Water",0.7,14.5
+"884","Mudbray",7,"Ground","None",1,110
+"885","Mudsdale",7,"Ground","None",2.5,920
+"886","Dewpider",7,"Water","Bug",0.3,4
+"887","Araquanid",7,"Water","Bug",1.8,82
+"888","Fomantis",7,"Grass","None",0.3,1.5
+"889","Lurantis",7,"Grass","None",0.9,18.5
+"890","Morelull",7,"Grass","Fairy",0.2,1.5
+"891","Shiinotic",7,"Grass","Fairy",1,11.5
+"892","Salandit",7,"Poison","Fire",0.6,4.8
+"893","Salazzle",7,"Poison","Fire",1.2,22.2
+"894","Stufful",7,"Normal","Fighting",0.5,6.8
+"895","Bewear",7,"Normal","Fighting",2.1,135
+"896","Bounsweet",7,"Grass","None",0.3,3.2
+"897","Steenee",7,"Grass","None",0.7,8.2
+"898","Tsareena",7,"Grass","None",1.2,21.4
+"899","Comfey",7,"Fairy","None",0.1,0.3
+"900","Oranguru",7,"Normal","Psychic",1.5,76
+"901","Passimian",7,"Fighting","None",2,82.8
+"902","Wimpod",7,"Bug","Water",0.5,12
+"903","Golisopod",7,"Bug","Water",2,108
+"904","Sandygast",7,"Ghost","Ground",0.5,70
+"905","Palossand",7,"Ghost","Ground",1.3,250
+"906","Pyukumuku",7,"Water","None",0.3,1.2
+"907","Type: Null",7,"Normal","None",1.9,120.5
+"908","Silvally",7,"Normal","None",2.3,100.5
+"909","Minior Meteor Form",7,"Rock","Flying",0.3,40
+"910","Minior Core Form",7,"Rock","Flying",0.3,0.3
+"911","Komala",7,"Normal","None",0.4,19.9
+"912","Turtonator",7,"Fire","Dragon",2,212
+"913","Togedemaru",7,"Electric","Steel",0.3,3.3
+"914","Mimikyu",7,"Ghost","Fairy",0.2,0.7
+"915","Bruxish",7,"Water","Psychic",0.9,19
+"916","Drampa",7,"Normal","Dragon",3,185
+"917","Dhelmise",7,"Ghost","Grass",3.9,210
+"918","Jangmo-o",7,"Dragon","None",0.6,29.7
+"919","Hakamo-o",7,"Dragon","Fighting",1.2,47
+"920","Kommo-o",7,"Dragon","Fighting",1.6,78.2
+"921","Tapu Koko",7,"Electric","Fairy",1.8,20.5
+"922","Tapu Lele",7,"Psychic","Fairy",1.2,18.6
+"923","Tapu Bulu",7,"Grass","Fairy",1.9,45.5
+"924","Tapu Fini",7,"Water","Fairy",1.3,21.2
+"925","Cosmog",7,"Psychic","None",0.2,0.1
+"926","Cosmoem",7,"Psychic","None",0.1,999.9
+"927","Solgaleo",7,"Psychic","Steel",3.4,230
+"928","Lunala",7,"Psychic","Ghost",4,120
+"929","Nihilego",7,"Rock","Poison",1.2,55.5
+"930","Buzzwole",7,"Bug","Fighting",2.4,333.6
+"931","Pheromosa",7,"Bug","Fighting",1.8,25
+"932","Xurkitree",7,"Electric","None",3.8,100
+"933","Celesteela",7,"Steel","Flying",9.2,999.9
+"934","Kartana",7,"Grass","Steel",0.3,0.1
+"935","Guzzlord",7,"Dark","Dragon",5.5,888
+"936","Necrozma",7,"Psychic","None",2.4,230
+"937","Dusk Mane Necrozma",7,"Psychic","Steel",3.8,460
+"938","Dawn Wings Necrozma",7,"Psychic","Ghost",4.2,350
+"939","Ultra Necrozma",7,"Psychic","Dragon",7.5,230
+"940","Magearna",7,"Steel","Fairy",1,80.5
+"941","Marshadow",7,"Fighting","Ghost",0.7,22.2
+"942","Poipole",7,"Poison","None",0.6,1.8
+"943","Naganadel",7,"Poison","Dragon",3.6,150
+"944","Stakataka",7,"Rock","Steel",5.5,820
+"945","Blacephalon",7,"Fire","Ghost",1.8,13
+"946","Zeraora",7,"Electric","None",1.5,44.5
+"947","Meltan",7,"Steel","None",0.2,8
+"948","Melmetal",7,"Steel","None",2.5,800
+"949","Grookey",8,"Grass","None",0.3,5
+"950","Thwackey",8,"Grass","None",0.7,14
+"951","Rillaboom",8,"Grass","None",2.1,90
+"952","Scorbunny",8,"Fire","None",0.3,4.5
+"953","Raboot",8,"Fire","None",0.6,9
+"954","Cinderace",8,"Fire","None",1.4,33
+"955","Sobble",8,"Water","None",0.3,4
+"956","Drizzile",8,"Water","None",0.7,11.5
+"957","Inteleon",8,"Water","None",1.9,45.2
+"958","Skwovet",8,"Normal","None",0.3,2.5
+"959","Greedent",8,"Normal","None",0.6,6
+"960","Rookidee",8,"Flying","None",0.2,1.8
+"961","Corvisquire",8,"Flying","None",0.8,16
+"962","Corviknight",8,"Flying","Steel",2.2,75
+"963","Blipbug",8,"Bug","None",0.4,8
+"964","Dottler",8,"Bug","Psychic",0.4,19.5
+"965","Orbeetle",8,"Bug","Psychic",0.4,40.8
+"966","Nickit",8,"Dark","None",0.6,8.9
+"967","Thievul",8,"Dark","None",1.2,19.9
+"968","Gossifleur",8,"Grass","None",0.4,2.2
+"969","Eldegoss",8,"Grass","None",0.5,2.5
+"970","Wooloo",8,"Normal","None",0.6,6
+"971","Dubwool",8,"Normal","None",1.3,43
+"972","Chewtle",8,"Water","None",0.3,8.5
+"973","Drednaw",8,"Water","Rock",1,115.5
+"974","Yamper",8,"Electric","None",0.3,13.5
+"975","Boltund",8,"Electric","None",1,34
+"976","Rolycoly",8,"Rock","None",0.3,12
+"977","Carkol",8,"Rock","Fire",1.1,78
+"978","Coalossal",8,"Rock","Fire",2.8,310.5
+"979","Applin",8,"Grass","Dragon",0.2,0.5
+"980","Flapple",8,"Grass","Dragon",0.3,1
+"981","Appletun",8,"Grass","Dragon",0.4,13
+"982","Silicobra",8,"Ground","None",2.2,7.6
+"983","Sandaconda",8,"Ground","None",3.8,65.5
+"984","Cramorant",8,"Flying","Water",0.8,18
+"985","Arrokuda",8,"Water","None",0.5,1
+"986","Barraskewda",8,"Water","None",1.3,30
+"987","Toxel",8,"Electric","Poison",0.4,11
+"988","Toxtricity",8,"Electric","Poison",1.6,40
+"989","Sizzlipede",8,"Fire","Bug",0.7,1
+"990","Centiskorch",8,"Fire","Bug",3,120
+"991","Clobbopus",8,"Fighting","None",0.6,4
+"992","Grapploct",8,"Fighting","None",1.6,39
+"993","Sinistea",8,"Ghost","None",0.1,0.2
+"994","Polteageist",8,"Ghost","None",0.2,0.4
+"995","Hatenna",8,"Psychic","None",0.4,3.4
+"996","Hattrem",8,"Psychic","None",0.6,4.8
+"997","Hatterene",8,"Psychic","Fairy",2.1,5
+"998","Impidimp",8,"Dark","Fairy",0.4,5.5
+"999","Morgrem",8,"Dark","Fairy",0.8,12.5
+"1000","Grimmsnarl",8,"Dark","Fairy",1.5,61
+"1001","Obstagoon",8,"Dark","Normal",1.6,46
+"1002","Perrserker",8,"Steel","None",0.8,28
+"1003","Cursola",8,"Ghost","None",1,0.4
+"1004","Sirfetch'd",8,"Fighting","None",0.8,117
+"1005","Mr. Rime",8,"Ice","Psychic",1.5,58.2
+"1006","Runerigus",8,"Ground","Ghost",1.6,66.6
+"1007","Milcery",8,"Fairy","None",0.2,0.3
+"1008","Alcremie",8,"Fairy","None",0.3,0.5
+"1009","Falinks",8,"Fighting","None",3,62
+"1010","Pincurchin",8,"Electric","None",0.3,1
+"1011","Snom",8,"Ice","Bug",0.3,3.8
+"1012","Frosmoth",8,"Ice","Bug",1.3,42
+"1013","Stonjourner",8,"Rock","None",2.5,520
+"1014","Eiscue",8,"Ice","None",1.4,89
+"1015","Indeedee",8,"Psychic","Normal",0.9,28
+"1016","Morpeko",8,"Electric","Dark",0.3,3
+"1017","Cufant",8,"Steel","None",1.2,100
+"1018","Copperajah",8,"Steel","None",3,650
+"1019","Dracozolt",8,"Electric","Dragon",1.8,190
+"1020","Arctozolt",8,"Electric","Ice",2.3,150
+"1021","Dracovish",8,"Water","Dragon",2.3,215
+"1022","Arctovish",8,"Water","Ice",2,175
+"1023","Duraludon",8,"Steel","Dragon",1.8,40
+"1024","Dreepy",8,"Dragon","Ghost",0.5,2
+"1025","Drakloak",8,"Dragon","Ghost",1.4,11
+"1026","Dragapult",8,"Dragon","Ghost",3,50
+"1027","Zacian Crowned Sword",8,"Fairy","Steel",2.8,355
+"1028","Zacian Hero of Many Battles",8,"Fairy","None",2.8,110
+"1029","Zamazenta Crowned Shield",8,"Fighting","Steel",2.9,785
+"1030","Zamazenta Hero of Many Battles",8,"Fighting","None",2.9,210
+"1031","Eternatus",8,"Poison","Dragon",20,950
+"1032","Kubfu",8,"Fighting","None",0.6,12
+"1033","Urshifu Single Strike Style",8,"Fighting","Dark",1.9,105
+"1034","Urshifu Rapid Strike Style",8,"Fighting","Water",1.9,105
+"1035","Zarude",8,"Dark","Grass",1.8,70
+"1036","Regieleki",8,"Electric","None",1.2,145
+"1037","Regidrago",8,"Dragon","None",2.1,200
+"1038","Glastrier",8,"Ice","None",2.2,800
+"1039","Spectrier",8,"Ghost","None",2,44.5
+"1040","Calyrex",8,"Psychic","Grass",1.1,7.7
+"1041","Calyrex Ice Rider",8,"Psychic","Ice",2.4,809.1
+"1042","Calyrex Shadow Rider",8,"Psychic","Ghost",2.4,53.6
+"1043","Wyrdeer",8,"Normal","Psychic",1.8,95.1
+"1044","Kleavor",8,"Bug","Rock",1.8,89
+"1045","Ursaluna",8,"Ground","Normal",2.4,290
+"1046","Basculegion",8,"Water","Ghost",3,110
+"1047","Sneasler",8,"Fighting","Poison",1.3,43
+"1048","Overqwil",8,"Dark","Poison",2.5,60.5
+"1049","Enamorus Incarnate Forme",8,"Fairy","Flying",1.6,48
+"1050","Enamorus Therian Forme",8,"Fairy","Flying",1.6,48
