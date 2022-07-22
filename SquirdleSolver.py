@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import time
 from bs4 import BeautifulSoup
 from GetFeedback import before_first, after_first, scoop
 import pandas
@@ -86,8 +85,8 @@ def WeightFeedback(s):
     spliceFour = after_first(spliceThree, ".png")
     return scoop(spliceFour, "imgs/", ".png")
     
-pandas.set_option('expand_frame_repr', False)
-pokeData = pandas.read_csv('pokemonCleaned.csv')
+pandas.set_option('expand_frame_repr', True)
+pokeData = pandas.read_csv('dataFinalized.csv')
 
 def ChooseNew():
     """returns pokemon name for next guess"""
@@ -116,16 +115,6 @@ def ChooseNew():
         pokeData = pokeData.query('type_1 == "'+curr.type1+'"')
     if feedback.type1 =='wrongpos':
         pokeData = pokeData.query('type_2 == "'+curr.type1+'"')
-    
-    #filter by type2
-    if feedback.type2==None:
-        pokeData = pokeData.query('type_2 == '+pandas.NA)
-    elif feedback.type2 =='wrong':
-        pokeData = pokeData.query('type_2 != "'+curr.type2+'"')
-    elif feedback.type2 =='correct':
-        pokeData = pokeData.query('type_2 == "'+curr.type2+'"')
-    else:
-        pokeData = pokeData.query('type_1 == "'+curr.type2+'"')
     
     #filter by height
     if feedback.height == 'up':
