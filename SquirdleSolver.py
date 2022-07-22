@@ -10,8 +10,7 @@ driver = webdriver.Chrome(PATH)
 driver.get("https://squirdle.fireblend.com/")
 
 
-guessCount = 0 
-
+guessCount =0
 def PokeGuess(pokeGuess):
     search = driver.find_element(By.ID, "guess")
     search.send_keys(pokeGuess)
@@ -20,8 +19,10 @@ def PokeGuess(pokeGuess):
     enter.click()
     UpdateHTML()
     global feedback
-    feedback = Feedback(BigChop())
-    return
+    feedback = Feedback(guessHTML())
+    return 
+
+
 
 def UpdateHTML():
     global htmlstring 
@@ -29,7 +30,7 @@ def UpdateHTML():
     return htmlstring
 
 
-def BigChop():
+def guessHTML():
     '''Splices string with feedback from guessCount'''
     htmlfinal = scoop(htmlstring, 'id="guess'+str(guessCount), 'class="tooltip">')
     return htmlfinal
@@ -42,6 +43,7 @@ class Feedback:
         self.height = HeightFeedback(s)
         self.weight = WeightFeedback(s)
     
+  
 def genFeedback(s):
     return scoop(s, "imgs/",".png")
 
@@ -58,11 +60,14 @@ def HeightFeedback(s):
     spliceOne = after_first(s, ".png")
     spliceTwo = after_first(spliceOne, ".png")
     spliceThree = after_first(spliceTwo, ".png")
-    return scoop(spliceTwo, "imgs/", ".png")
+    return scoop(spliceThree, "imgs/", ".png")
 
 def WeightFeedback(s):
-    return
+    spliceOne = after_first(s, ".png")
+    spliceTwo = after_first(spliceOne, ".png")
+    spliceThree = after_first(spliceTwo, ".png")
+    spliceFour = after_first(spliceThree, ".png")
+    return scoop(spliceFour, "imgs/", ".png")
     
-    
-PokeGuess("Squirtle")
-print(feedback.gen)
+
+PokeGuess("Buizel")
