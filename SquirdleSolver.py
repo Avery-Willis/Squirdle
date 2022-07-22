@@ -25,8 +25,9 @@ def PokeGuess(pokeGuess):
     feedback = Feedback(guessHTML())
     global curr
     curr = CurrentGuess(pokeGuess)
-    ChooseNew()
-    return 
+    global next
+    next = ChooseNew()
+    return
 
 class CurrentGuess:
     def __init__(self, name):
@@ -91,59 +92,49 @@ pokeData = pandas.read_csv('pokemonCleaned.csv')
 def ChooseNew():
     """returns pokemon name for next guess"""
     #filter by generation
-    global newGuessDF
+    global pokeData
     if feedback.gen=='up':
-        newGuessDF = pokeData.query('gen > ' + str(curr.gen))
+        pokeData = pokeData.query('gen > ' + str(curr.gen))
     elif feedback.gen=='down':
-        newGuessDF = pokeData.query('gen < ' + str(curr.gen))
+        pokeData = pokeData.query('gen < ' + str(curr.gen))
     else:
-        newGuessDF = pokeData.query('gen == '+str(curr.gen))
+        pokeData = pokeData.query('gen == '+str(curr.gen))
     
     #filter by type1
     if feedback.type1 =='wrong':
-        newGuessDF = pokeData.query('type_1 != "'+curr.type1+'"')
-    elif feedback.type1 =='correct':
-        newGuessDF = pokeData.query('type_1 == "'+curr.type1+'"')
-    else:
-        newGuessDF = pokeData.query('type_2 == "'+curr.type1+'"')
+        pokeData = pokeData.query('type_1 != "'+curr.type1+'"')
+    if feedback.type1 =='correct':
+        pokeData = pokeData.query('type_1 == "'+curr.type1+'"')
+    if feedback.type1 =='wrongpos':
+        pokeData = pokeData.query('type_2 == "'+curr.type1+'"')
     
     #filter by type2
     if feedback.type2==None:
-        pass
+        pokeData = pokeData.query('type_2 == "'+pandas.NA+'"')
     elif feedback.type2 =='wrong':
-        newGuessDF = pokeData.query('type_2 != "'+curr.type2+'"')
+        pokeData = pokeData.query('type_2 != "'+curr.type2+'"')
     elif feedback.type2 =='correct':
-        newGuessDF = pokeData.query('type_2 == "'+curr.type2+'"')
+        pokeData = pokeData.query('type_2 == "'+curr.type2+'"')
     else:
-        newGuessDF = pokeData.query('type_1 == "'+curr.type2+'"')
+        pokeData = pokeData.query('type_1 == "'+curr.type2+'"')
     
     #filter by height
     if feedback.height == 'up':
-        newGuessDF = pokeData.query('height_m > '+str(curr.height))
+        pokeData = pokeData.query('height_m > '+str(curr.height))
     if feedback.height == 'down':
-        newGuessDF = pokeData.query('height_m < '+str(curr.height))
+        pokeData = pokeData.query('height_m < '+str(curr.height))
     
     #filter by weight
     if feedback.weight == 'up':
-        newGuessDF = pokeData.query('weight_kg > '+str(curr.weight))
+        pokeData = pokeData.query('weight_kg > '+str(curr.weight))
     if feedback.weight == 'down':
-        newGuessDF = pokeData.query('weight_kg < '+str(curr.weight))
+        pokeData = pokeData.query('weight_kg < '+str(curr.weight))
     
-    n = int(len(newGuessDF.values)/2)
-    print(newGuessDF.values[n][1])
-    return
+    return pokeData.values[0][1]
     
     
     
-
-
-
-
-
-
-
-
-
-
-
 PokeGuess("Buizel")
+while guessCount <9:
+    PokeGuess(next)
+    guessCount+=1
