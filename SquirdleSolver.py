@@ -127,12 +127,16 @@ def ChooseNew():
         pokeData = pokeData.query('height_m > '+str(curr.height))
     if feedback.height == 'down':
         pokeData = pokeData.query('height_m < '+str(curr.height))
+    if feedback.height == 'correct':
+        pokeData = pokeData.query('height_m == '+str(curr.height))
     
     #filter by weight
     if feedback.weight == 'up':
         pokeData = pokeData.query('weight_kg > '+str(curr.weight))
     if feedback.weight == 'down':
         pokeData = pokeData.query('weight_kg < '+str(curr.weight))
+    if feedback.weight == 'correct':
+        pokeData = pokeData.query('weight_kg == '+str(curr.height))
     
     print("Looking at pokeData after:")
     print(pokeData)
